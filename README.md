@@ -1,6 +1,7 @@
 # Alpha-Loss
 
-Official repository for 'A Tunable Loss Function for Robust Classification: Calibration, Landscape, and Generalization'
+Official repository for 'A Tunable Loss Function for Robust Classification: Calibration, Landscape, and Generalization'. 
+Link to the [paper](https://arxiv.org/abs/1906.02314)
 
 # Noisy Binary
 
